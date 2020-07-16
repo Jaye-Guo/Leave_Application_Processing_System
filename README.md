@@ -1,4 +1,5 @@
 # Leave_Application_Processing_System
 Employee leave application system
-# team project
+team project
 member of 9
+connecting MySQL
